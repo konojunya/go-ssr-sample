@@ -1,0 +1,2 @@
+# go-ssr-sample
+GoのSSRをつかいたい
